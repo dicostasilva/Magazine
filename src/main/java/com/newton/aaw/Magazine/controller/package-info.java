@@ -1,0 +1,1 @@
+package com.newton.aaw.Magazine.controller;
